@@ -21,4 +21,4 @@ HowTo:
     
 4.  "Valkilmerheim-Join.bat" ausführen und mit Passwort einloggen. Fertig
 
-        5.  OPTIONAL: Verknüpfung zur "Valkilmerheim-Join.bat" auf Desktop anlegen und "valkilmer.ico" zuweisen
+        OPTIONAL: Verknüpfung zur "Valkilmerheim-Join.bat" auf Desktop anlegen und "valkilmer.ico" zuweisen
