@@ -10,6 +10,7 @@ Inhalt:
 HowTo:
 
 1.  Rechts unter "Releases" die aktuelle Valkimer_vXX.rar runterladen
+        
         OPTIONAL: Wenn ihr Valheim über Steam mit der Vulkan-API starten wollt müsst ihr die Valkilmer_vXX-VULKAN.rar nehmen
 
 2.  "Valkilmerheim-Join.bat" an einen beliebigen Ort auf dem PC ablegen
